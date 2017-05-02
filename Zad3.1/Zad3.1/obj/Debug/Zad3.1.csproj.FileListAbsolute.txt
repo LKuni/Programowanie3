@@ -1,0 +1,8 @@
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\bin\Debug\Zad3.1.exe.config
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\bin\Debug\Zad3.1.exe
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\bin\Debug\Zad3.1.pdb
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\bin\Debug\nunit.framework.dll
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\bin\Debug\nunit.framework.xml
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\obj\Debug\Zad3.1.csprojResolveAssemblyReference.cache
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\obj\Debug\Zad3.1.exe
+C:\Users\Kuni\Desktop\Zad3.1\Zad3.1\obj\Debug\Zad3.1.pdb

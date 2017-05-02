@@ -1,0 +1,39 @@
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\App.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3_MarkupCompile.cache
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.g.resources
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad_3._3.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.exe
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.pdb
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.csprojResolveAssemblyReference.cache
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.baml
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.baml
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.baml
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.baml
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\App.g.cs
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3_MarkupCompile.cache
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.g.resources
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad_3._3.Properties.Resources.resources
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.csproj.GenerateResource.Cache
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.exe
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.pdb
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\bin\Debug\nunit.framework.dll
+C:\Users\Kuni\Desktop\ZaawansowaneProgramowanieObiektowe-Zadanie3-master\Zad 3.3\Zad 3.3\bin\Debug\nunit.framework.xml
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj3\Zad3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj3\Zad3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.pdb
